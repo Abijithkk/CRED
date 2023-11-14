@@ -1,0 +1,20 @@
+{
+  "company": [
+    {
+      "id": 1,
+      "name": "Wipro",
+      "email": "Wipro@gmail.com",
+      "phone": "7989898990",
+      "Address": "Kakkanadu Ernakulm",
+      "type": "MNC"
+    },
+    {
+      "id": 2,
+      "name": "Luminar",
+      "email": "Luminar@gmail.com",
+      "phone": "9098766544",
+      "Address": "Ernakulam",
+      "type": "MNC"
+    }
+  ]
+}
